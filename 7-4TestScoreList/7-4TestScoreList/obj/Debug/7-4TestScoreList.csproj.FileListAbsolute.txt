@@ -1,0 +1,10 @@
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\bin\Debug\7-4TestScoreList.exe.config
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\bin\Debug\7-4TestScoreList.exe
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\bin\Debug\7-4TestScoreList.pdb
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.csprojResolveAssemblyReference.cache
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\_7_4TestScoreList.TestScoreList.resources
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\_7_4TestScoreList.Properties.Resources.resources
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.csproj.GenerateResource.Cache
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.csproj.CoreCompileInputs.cache
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.exe
+E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.pdb
