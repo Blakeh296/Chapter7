@@ -39,10 +39,12 @@
             // 
             // listBox1
             // 
+            this.listBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 16;
             this.listBox1.Location = new System.Drawing.Point(12, 23);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(80, 147);
+            this.listBox1.Size = new System.Drawing.Size(80, 132);
             this.listBox1.TabIndex = 0;
             // 
             // lblAverage
@@ -54,7 +56,6 @@
             this.lblAverage.Size = new System.Drawing.Size(100, 23);
             this.lblAverage.TabIndex = 1;
             this.lblAverage.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblAverage.Click += new System.EventHandler(this.lblAverage_Click);
             // 
             // lblBelowAverage
             // 
@@ -65,7 +66,6 @@
             this.lblBelowAverage.Size = new System.Drawing.Size(100, 23);
             this.lblBelowAverage.TabIndex = 2;
             this.lblBelowAverage.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblBelowAverage.Click += new System.EventHandler(this.lblBelowAverage_Click);
             // 
             // lblAboveAverage
             // 
@@ -76,7 +76,6 @@
             this.lblAboveAverage.Size = new System.Drawing.Size(100, 23);
             this.lblAboveAverage.TabIndex = 3;
             this.lblAboveAverage.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.lblAboveAverage.Click += new System.EventHandler(this.lblAboveAverage_Click);
             // 
             // label3
             // 
@@ -88,7 +87,6 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Average Score :";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label1
             // 
@@ -100,7 +98,6 @@
             this.label1.TabIndex = 7;
             this.label1.Text = "Number of Scores Below Average :";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -112,7 +109,6 @@
             this.label2.TabIndex = 8;
             this.label2.Text = "Number of Scores Above Average :";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // TestScoreList
             // 

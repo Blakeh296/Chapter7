@@ -8,3 +8,13 @@ E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScore
 E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.csproj.CoreCompileInputs.cache
 E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.exe
 E:\C#\Chapters\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.pdb
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\bin\Debug\7-4TestScoreList.exe.config
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\bin\Debug\7-4TestScoreList.exe
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\bin\Debug\7-4TestScoreList.pdb
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\_7_4TestScoreList.TestScoreList.resources
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\_7_4TestScoreList.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.exe
+C:\Users\MTCStudent\Desktop\Chapter7\7-4TestScoreList\7-4TestScoreList\obj\Debug\7-4TestScoreList.pdb
